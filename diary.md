@@ -1,6 +1,8 @@
 
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**02-Oct-2020**     | Need to try smarter
+**01-Oct-2020**     | Missed Update
 **30-Sep-2020**     | Need to find a purpose and start coding
 **30-Sep-2020**     | Waka Waka Wednesday
 **29-Sep-2020**     | Vik all st. launch at 2:30AM, feeling nervous, need to stich tech skills together
