@@ -1,7 +1,8 @@
 
 Date                | Notes
 --------------------|:------------------------------------------------------------------
-**05-Oct-2020**.    | Morning Cycling with Sudhir
+**06-Oct-2020**     | Morning Cycling with Sudhir, DR Test for DP
+**05-Oct-2020**     | Morning Cycling with Sudhir
 **04-Oct-2020**     | Cumbharjua-SavoiVerem-Ponda-Margao-Verna-Bogmalo-St Jacinto-Panaji-Cumbharjua
 **03-Oct-2020**     | bhatkanti
 **02-Oct-2020**     | Need to try smarter
