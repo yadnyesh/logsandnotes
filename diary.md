@@ -2,7 +2,7 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
 **08-Oct-2020**     | Re-start the spark
-                    | Resource issues - DP, Substitution Service
+**08-Oct-2020**     | Resource issues - DP, Substitution Service
 **07-Oct-2020**     | Let's see what's in store
 **06-Oct-2020**     | Morning Cycling with Sudhir, DR Test for DP
 **05-Oct-2020**     | Morning Cycling with Sudhir
