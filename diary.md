@@ -1,6 +1,7 @@
 
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**09-Oct-2020**     | Too many issues at work, lets sort it out.
 **08-Oct-2020**     | Re-start the spark
 **08-Oct-2020**     | Resource issues - DP, Substitution Service
 **07-Oct-2020**     | Let's see what's in store
