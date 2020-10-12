@@ -1,7 +1,8 @@
 
 Date                | Notes
 --------------------|:------------------------------------------------------------------
-**11-Oct-2020**     | Plan North Goa
+**12-Oct-2020**     | Back to office work
+**11-Oct-2020**     | Plan North Goa - only Morjim, rains foiled the plan
 **10-Oct-2020**     | Plan South Goa
 **09-Oct-2020**     | Too many issues at work, lets sort it out.
 **08-Oct-2020**     | Re-start the spark
