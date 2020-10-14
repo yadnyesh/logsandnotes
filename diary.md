@@ -1,6 +1,7 @@
 
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**14-Oct-2020**     | Aaj kuch toofani karte hain
 **13-Oct-2020**     | Too much work at office 
 **12-Oct-2020**     | Back to office work
 **11-Oct-2020**     | Plan North Goa - only Morjim, rains foiled the plan
