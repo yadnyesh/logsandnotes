@@ -1,6 +1,7 @@
 
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**17-Oct-2020**     | Praying at Fatarpa Temple
 **16-Oct-2020**     | 18 years :-)
 **15-Oct-2020**     | Aaj kuch toofani karte hain2
 **14-Oct-2020**     | Aaj kuch toofani karte hain
