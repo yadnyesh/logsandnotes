@@ -1,7 +1,7 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
 **19-Oct-2020**     | Office Drill
-**18-Oct-2020**     | Lazying at home :) - Did cycling in morning
+**18-Oct-2020**     | Lazying at home :) - Did cycling in morning - Pappa right side wound scare
 **17-Oct-2020**     | Praying at Fatarpa Temple
 **16-Oct-2020**     | 18 years :-)
 **15-Oct-2020**     | Aaj kuch toofani karte hain2
