@@ -1,6 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
-**20-Oct-2020**     | Personalized Subs Rollout (Sah - Jena)
+**20-Oct-2020**     | Personalized Subs Rollout (Sahan - Jena)
 **19-Oct-2020**     | Office Drill, Plot No 36 done
 **18-Oct-2020**     | Lazying at home :) - Did cycling in morning - Pappa right side wound scare
 **17-Oct-2020**     | Praying at Fatarpa Temple
