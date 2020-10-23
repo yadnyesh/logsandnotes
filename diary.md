@@ -1,5 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**23-Oct-2020**     |bLast Day of the post pandemic trip, longest stay at home since I left home for greener pastures in 2006
 **22-Oct-2020**     | Another long day
 **21-Oct-2020**     | DR Test preparation
 **20-Oct-2020**     | Personalized Subs Rollout (Sahan - Jena), 36 booked, paid 2L
