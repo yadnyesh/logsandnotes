@@ -1,5 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**24-Oct-2020**     | Re-aligned Bangalore travel Plan
 **23-Oct-2020**     | Last Day of the post pandemic trip, longest stay at home since I left home for greener pastures in 2006.
 **22-Oct-2020**     | Another long day
 **21-Oct-2020**     | DR Test preparation
