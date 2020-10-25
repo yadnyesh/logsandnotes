@@ -1,6 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
-**25-Oct-2020**     | Dusshera - kill the demon gopi
+**25-Oct-2020**     | Dusshera - kill the demon gopi, trip to Baga, Added beneficieries to Pappa's BoM account
 **24-Oct-2020**     | Re-aligned Bangalore travel Plan, edit from Firefox
 **23-Oct-2020**     | Last Day of the post pandemic trip, longest stay at home since I left home for greener pastures in 2006.
 **22-Oct-2020**     | Another long day
