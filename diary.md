@@ -1,5 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**27-Oct-2020**     | Back to Office
 **26-Oct-2020**     | Convert White to Black today :)
 **25-Oct-2020**     | Dusshera - kill the demon gopi, trip to Baga, Added beneficieries to Pappa's BoM account
 **24-Oct-2020**     | Re-aligned Bangalore travel Plan, edit from Firefox
