@@ -1,5 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**28-Oct-2020**     | Met Mah for NB Flat, RF confirmed measuring and Sale Deed 
 **27-Oct-2020**     | Back to Office
 **26-Oct-2020**     | Convert White to Black today :)
 **25-Oct-2020**     | Dusshera - kill the demon gopi, trip to Baga, Added beneficieries to Pappa's BoM account
