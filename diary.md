@@ -1,5 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**30-Oct-2020**     | DP Cancel pass done 
 **28-Oct-2020**     | Met Mah for NB Flat, RF confirmed measuring and Sale Deed 
 **27-Oct-2020**     | Back to Office
 **26-Oct-2020**     | Convert White to Black today :)
