@@ -1,5 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**01-Nov-2020**.    | Hope things get better today
 **31-Oct-2020**.    | Travel to Bangalore
 **30-Oct-2020**     | DP Cancel pass done 
 **28-Oct-2020**     | Met Mah for NB Flat, RF confirmed measuring and Sale Deed 
