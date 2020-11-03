@@ -1,5 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**03-Nov-2020**.    | 6kms Cycling done
 **02-Nov-2020**.    | Back to office today
 **01-Nov-2020**.    | Hope things get better today
 **31-Oct-2020**.    | Travel to Bangalore
