@@ -1,5 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**05-Nov-2020**.    | Meeting with Rohit Kaila and the Subs team
 **04-Nov-2020**.    | No exercise done, DP Prod change, Subs Prod issue
 **03-Nov-2020**.    | 6kms Cycling done
 **02-Nov-2020**.    | Back to office today
