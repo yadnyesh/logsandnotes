@@ -1,5 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**08-Nov-2020**.    | ASDA Recruitment drive IN3/IN4
 **06-Nov-2020**.    | ASDA Recruitment drive IN3/IN4
 **05-Nov-2020**.    | Meeting with Rohit Kaila and the Subs team
 **04-Nov-2020**.    | No exercise done, DP Prod change, Subs Prod issue
