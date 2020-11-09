@@ -1,5 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**09-Nov-2020**.    | Monday :(
 **08-Nov-2020**.    | ASDA Recruitment drive IN3/IN4
 **06-Nov-2020**.    | ASDA Recruitment drive IN3/IN4
 **05-Nov-2020**.    | Meeting with Rohit Kaila and the Subs team
