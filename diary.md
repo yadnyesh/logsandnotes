@@ -1,6 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
-**10-Nov-2020**.    | Tuesday :(, had throat scare again yesterday, continues today, but bit better
+**10-Nov-2020**.    | Tuesday :(, had throat scare again yesterday, continues today, but bit better, definately better throat but eyes are paining
 **09-Nov-2020**.    | Monday :(
 **08-Nov-2020**.    | ASDA Recruitment drive IN3/IN4
 **06-Nov-2020**.    | ASDA Recruitment drive IN3/IN4
