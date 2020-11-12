@@ -1,5 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**12-Nov-2020**.    | Eyes pain eased out today, so is the throat inflammation
 **11-Nov-2020**.    | Eyes continue to pain, Call to Bappa since he has accidental fall, Registration of Plot No 36 today
 **10-Nov-2020**.    | Tuesday :(, had throat scare again yesterday, continues today, but bit better, definately better throat but eyes are paining
 **09-Nov-2020**.    | Monday :(
