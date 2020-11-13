@@ -1,5 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**14-Nov-2020**.    | Diwali and Lakshmi Pooja, may the godess bless me and my whole family
 **13-Nov-2020**.    | Eyes pain still easing out , so is the throat inflammation
 **12-Nov-2020**.    | Eyes pain eased out today, so is the throat inflammation
 **11-Nov-2020**.    | Eyes continue to pain, Call to Bappa since he has accidental fall, Registration of Plot No 36 today
