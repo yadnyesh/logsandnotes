@@ -1,3 +1,3 @@
-sudo systemctl enable --now docker|
-sudo systemctl status docker|
-sudo usermod -aG docker yadnyesh|
+sudo systemctl enable --now docker <br />
+sudo systemctl status docker <br />
+sudo usermod -aG docker yadnyesh <br />
