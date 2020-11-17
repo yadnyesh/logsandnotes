@@ -1,5 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**17-Nov-2020**.    | Back to office, now - let the show begin!
 **16-Nov-2020**.    | Missed update on 15th due to Bangalore Goa Ride
 **14-Nov-2020**.    | Diwali and Lakshmi Pooja, may the godess bless me and my whole family
 **13-Nov-2020**.    | Eyes pain still easing out , so is the throat inflammation
