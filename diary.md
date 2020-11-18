@@ -1,5 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**18-Nov-2020**.    | Interviews and close on estimations for CNC
 **17-Nov-2020**.    | Back to office, now - let the show begin!
 **16-Nov-2020**.    | Missed update on 15th due to Bangalore Goa Ride
 **14-Nov-2020**.    | Diwali and Lakshmi Pooja, may the godess bless me and my whole family
