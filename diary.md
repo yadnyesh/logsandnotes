@@ -1,5 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**19-Nov-2020**.    | Asking for YKW from VYKW
 **18-Nov-2020**.    | Interviews and close on estimations for CNC - Done both, now 2 candidates with more experience than what we could offer
 **17-Nov-2020**.    | Back to office, now - let the show begin!
 **16-Nov-2020**.    | Missed update on 15th due to Bangalore Goa Ride
