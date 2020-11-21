@@ -1,5 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**21-Nov-2020**.    | Wasted day, slept whole day
 **20-Nov-2020**.    | Totally Scre Up Friday, back to back meetings till 5pm
 **19-Nov-2020**.    | Asking for YKW from VYKW, VYKW told to apply when pos is open
 **18-Nov-2020**.    | Interviews and close on estimations for CNC - Done both, now 2 candidates with more experience than what we could offer
