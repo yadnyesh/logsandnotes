@@ -1,5 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**26-Nov-2020**.    | High time to buy a bicycle, should at least do Python
 **25-Nov-2020**.    | High time to buy a bicycle
 **24-Nov-2020**.    | Missed updates for 2 whole days, surprised how time flies
 **21-Nov-2020**.    | Wasted day, slept whole day
