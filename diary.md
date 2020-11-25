@@ -1,5 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**25-Nov-2020**.    | High time to buy a bicycle
 **24-Nov-2020**.    | Missed updates for 2 whole days, surprised how time flies
 **21-Nov-2020**.    | Wasted day, slept whole day
 **20-Nov-2020**.    | Totally Scre Up Friday, back to back meetings till 5pm
