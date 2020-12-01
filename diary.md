@@ -1,6 +1,9 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
-**10-Dec-2020**.    | Updated after a long gap
+**01-Dec-2020**.    | Updated after a long gap
+**30-Nov-2020**.    | Missed Update
+**29-Nov-2020**.    | Missed Update
+**28-Nov-2020**.    | Missed Updated, Booked Activa, bought Bicycle
 **27-Nov-2020**.    | Tulsi Lagna puja, relaxed on Friday
 **26-Nov-2020**.    | High time to buy a bicycle, should at least do Python
 **25-Nov-2020**.    | High time to buy a bicycle, understood Domain Driven Design
