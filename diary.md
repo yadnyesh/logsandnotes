@@ -1,5 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**03-Dec-2020**.    | Recruitment drive pre-work
 **02-Dec-2020**.    | Evening Trip to Baga, mast time
 **01-Dec-2020**.    | Updated after a long gap
 **30-Nov-2020**.    | Missed Update
