@@ -1,5 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**08-Dec-2020**.    | Missing too many updates
 **06-Dec-2020**.    | Off to Baga
 **05-Dec-2020**.    | Recruitment drive for A*D* IN3and4
 **03-Dec-2020**.    | Recruitment drive pre-work
