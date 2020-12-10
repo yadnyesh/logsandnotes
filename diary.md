@@ -1,5 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**10-Dec-2020**.    | Seems like a loosing battle
 **09-Dec-2020**.    | Get ahead of the curve!
 **08-Dec-2020**.    | Missing too many updates
 **06-Dec-2020**.    | Off to Baga
