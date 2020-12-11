@@ -1,5 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**11-Dec-2020**.    | Friday wasted :(
 **10-Dec-2020**.    | Visit to Healthway, Dr. Nilesh, had good Dinner Fried Rice + Chicken, December Rains in Goa :)
 **09-Dec-2020**.    | Get ahead of the curve!
 **08-Dec-2020**.    | Missing too many updates
