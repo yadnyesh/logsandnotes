@@ -1,5 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**13-Dec-2020**.    | Sunday, Trip to Temple, good one.
 **12-Dec-2020**.    | Saturday - Interview Drive - Drive to Ponda - Voted for ZP Elections
 **11-Dec-2020**.    | Friday wasted :(
 **10-Dec-2020**.    | Visit to Healthway, Dr. Nilesh, had good Dinner Fried Rice + Chicken, December Rains in Goa :)
