@@ -1,5 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**15-Dec-2020**.    | Direct deal closed :(, need to jump up
 **14-Dec-2020**.    | Monday :(
 **13-Dec-2020**.    | Sunday, Trip to Temple, good one.
 **12-Dec-2020**.    | Saturday - Interview Drive - Drive to Ponda - Voted for ZP Elections
