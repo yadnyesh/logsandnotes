@@ -1,5 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**20-Dec-2020**.    | Planning trip to Baga
 **19-Dec-2020**.    | Planning trip to Old Goa
 **18-Dec-2020**.    | Planning trip to Madkai, Kundai - got some great shots
 **15-Dec-2020**.    | Direct deal closed :(, need to jump up
