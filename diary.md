@@ -1,6 +1,7 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
-**20-Dec-2020**.    | Planning trip to Baga
+**21-Dec-2020**.    | Throat infection increased, runny nose, blocked nose and a little feverish feeling 97.7 max on thermo, 2 DOLO + Allegras
+**20-Dec-2020**.    | Planning trip to Baga, trip done, but throat infection - took 2 DOLO + Aleegra's
 **19-Dec-2020**.    | Planning trip to Old Goa
 **18-Dec-2020**.    | Planning trip to Madkai, Kundai - got some great shots
 **15-Dec-2020**.    | Direct deal closed :(, need to jump up
