@@ -1,5 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**23-Dec-2020**     | Feeling better, throat pain almost gone, Dolo at 2am previous night, temp 97.5
 **22-Dec-2020**     | Throat infection - pain and swelling reduced, no fever, Dolo taken at 10pm previous night, temp: 97.5, smell - good, but cough is there
 **21-Dec-2020**.    | Throat infection increased, runny nose, blocked nose and a little feverish feeling 97.7 max on thermo, 2 DOLO + Allegras
 **20-Dec-2020**.    | Planning trip to Baga, trip done, but throat infection - took 2 DOLO + Aleegra's
