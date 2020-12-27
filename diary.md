@@ -1,5 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**27-Dec-2020**     | Feeling better, throat swelling still exists
 **26-Dec-2020**     | Feeling better, throat pain almost gone
 **23-Dec-2020**     | Feeling better, throat pain almost gone, Dolo at 2am previous night, temp 97.5
 **22-Dec-2020**     | Throat infection - pain and swelling reduced, no fever, Dolo taken at 10pm previous night, temp: 97.5, smell - good, but cough is there
