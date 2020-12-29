@@ -1,5 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**29-Dec-2020**     | Planning Betul and other parts
 **28-Dec-2020**     | Missed Update
 **27-Dec-2020**     | Feeling better, throat swelling still exists
 **26-Dec-2020**     | Feeling better, throat pain almost gone
