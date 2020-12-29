@@ -1,5 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**28-Dec-2020**     | Missed Update
 **27-Dec-2020**     | Feeling better, throat swelling still exists
 **26-Dec-2020**     | Feeling better, throat pain almost gone
 **23-Dec-2020**     | Feeling better, throat pain almost gone, Dolo at 2am previous night, temp 97.5
