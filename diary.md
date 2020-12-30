@@ -1,5 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
+**30-Dec-2020**     | Parra coconut tree road
 **29-Dec-2020**     | Planning Betul and other parts
 **28-Dec-2020**     | Missed Update
 **27-Dec-2020**     | Feeling better, throat swelling still exists
