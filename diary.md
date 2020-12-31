@@ -1,6 +1,6 @@
 Date                | Notes
 --------------------|:------------------------------------------------------------------
-**31-Dec-2020**     | Marcel - Miscellaneous
+**31-Dec-2020**     | Marcel - Miscellaneous, farewell to 2020 with ashw
 **30-Dec-2020**     | Parra coconut tree road
 **29-Dec-2020**     | Planning Betul and other parts
 **28-Dec-2020**     | Missed Update
